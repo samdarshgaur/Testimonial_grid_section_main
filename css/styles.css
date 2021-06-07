@@ -18,7 +18,7 @@ body {
 /* Grid-Items background-color */
 .grid-item:nth-child(1) {
     background-color: hsl(263, 55%, 52%);
-    background-image: url(/images/bg-pattern-quotation.svg);
+    background-image: url(../images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: top right 2rem;
 }
